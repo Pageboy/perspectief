@@ -31,8 +31,15 @@ post_class: post-template
 
             {% if site.lazyimages == "enabled" %}
             <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+
             {% else %}
-            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+              {% if page.image contains "://" %}
+              <img class="featured-image img-fluid" alt="{{ page.title }}" src="{{ page.image }}" />
+              {% else %}
+              <a rel="gallery" href="{{ site.baseurl }}/{{ page.image }}">
+                <img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}" />
+              </a>
+              {% endif %}
             {% endif %}
 
             {% endif %}

@@ -14,13 +14,9 @@
 
 {% seo %}
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+{% include stylesheets.html %}
 
-<link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
-
-<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+{% include javascripts.html %}
 
 </head>
 
@@ -121,11 +117,8 @@ ga('send', 'pageview');
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+                Copyright © {{ site.time | date: "%Y" }} Chris Jennings
             </div>
-            <!-- <div class="col-md-6 col-sm-6 text-center text-lg-right">
-                <a target="_blank" href="https://www.wowthemes.net/mediumish-free-jekyll-template/">Mediumish Jekyll Theme</a> by WowThemes.net
-            </div> -->
         </div>
     </div>
 </footer>
@@ -148,6 +141,23 @@ ga('send', 'pageview');
 {% endif %}
 
 <script src="{{ site.baseurl }}/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+<script>
+        $(document).ready(function() {
+            $('.fancybox').fancybox();
+        });
+    </script>
+    <script>
+    jQuery(document).ready(function($) {
+    	$("img:not([title])").each(function() {
+    			if($(this).attr("alt") != '') $(this).parent().attr("title", $(this).attr("alt"))
+    			else $(this).parent().attr("title", $(this).attr("src"));
+    	});
+    });
+    </script>
+    <script>
+        $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').attr('class', 'sideimage').fancybox();
+    </script>
 
 
 </body>

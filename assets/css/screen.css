@@ -733,6 +733,7 @@ h6 {
 
 img {
     max-width: 100%;
+    border:1px solid #afafaf;
 }
 
 .bottompagination span.navigation {
@@ -858,6 +859,7 @@ iframe {
 
 .card .img-fluid {
     width: 100%;
+    border:none;
 }
 
 .sticky-top-80 {

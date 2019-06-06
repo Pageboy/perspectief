@@ -7,6 +7,20 @@ title: Home
 
 <!-- Featured
 ================================================== -->
+<!-- are there any featured posts? -->
+
+{% for post in site.posts %}
+
+    {% if post.featured == true %}
+
+        {% assign somefeatured = true %}
+
+    {% endif %}
+
+{% endfor %}
+
+{% if somefeatured == true %}
+
 <section class="featured-posts">
     <div class="section-title">
         <h2><span>Featured</span></h2>
@@ -25,6 +39,8 @@ title: Home
 
     </div>
 </section>
+
+{% endif %}
 
 {% endif %}
 
@@ -58,4 +74,3 @@ title: Home
     {% include pagination.html %}
 </span>
 </div>
-
