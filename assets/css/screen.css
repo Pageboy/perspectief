@@ -1,8 +1,12 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
+/*
+Template Name: Mediumish
+Copyright: Sal, WowThemes.net, https://www.wowthemes.net
+License: https://www.wowthemes.net/freebies-license/
 */
+html, body {
+font-family: "Cantarell",Geneva,Tahoma,"Trebuchet MS",sans-serif;
+}
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -305,7 +309,14 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: 'Neuton', serif;
+    color:#05A;
+}
+
+.mainheading h1.sitetitle i {
+    color:#00add2;
+    padding:0 10px;
+    font-style: normal;
 }
 
 .mainheading h1.posttitle {
@@ -320,7 +331,7 @@ span.post-read-more a:hover {
     font-size: 0.8rem;
     color: rgba(0, 0, 0, .44);
     margin-top: 50px;
-    margin-bottom: 62px;
+    margin-bottom: 10px;
     position: relative;
     background: #fff;
 }
@@ -330,7 +341,8 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Merriweather;
+    /* font-family: 'Neuton', serif; */
+    font-family: "Cantarell",Geneva,Tahoma,"Trebuchet MS",sans-serif;
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -711,7 +723,7 @@ h6 {
 }
 
 .layout-page .article-post {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    /* font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
     font-size: 1rem;
 }
 
