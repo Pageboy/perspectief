@@ -12,7 +12,7 @@ font-family: "Cantarell",Geneva,Tahoma,"Trebuchet MS",sans-serif;
     .container {max-width:80%;}
 }
 .mainheading {
-    padding: 0rem;
+    padding: .5rem 0rem;
 }
 
 a {
