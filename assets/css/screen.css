@@ -12,7 +12,7 @@ font-family: "Cantarell",Geneva,Tahoma,"Trebuchet MS",sans-serif;
     .container {max-width:80%;}
 }
 .mainheading {
-    padding: 1rem 0rem;
+    padding: 0rem;
 }
 
 a {
@@ -313,6 +313,13 @@ span.post-read-more a:hover {
     color:#05A;
 }
 
+h1.sitetitle {
+    padding-top:4px;
+    font-size: 3vw;
+    font-family: 'Neuton', serif;
+    color:#05A;
+}
+
 .mainheading h1.sitetitle i {
     color:#00add2;
     padding:0 10px;
@@ -405,11 +412,19 @@ blockquote {
     .share ul li {
         display: block;
     }
+
+    h1.sitetitle {
+        font-size: 3vw;
+    }
 }
 
 @media (max-width:999px) {
     .featured-box-img-cover {
         height: 359px;
+    }
+
+    h1.sitetitle {
+        font-size: 4vw;
     }
 
     .alertbar {
@@ -733,6 +748,8 @@ h6 {
 
 img {
     max-width: 100%;
+    /* we don't want really tall images thank you */
+    max-height:400px;
     border:1px solid #afafaf;
 }
 
@@ -781,6 +798,7 @@ iframe {
 }
 
 @media (min-width:768px) {
+
     .jumbotron.fortags {
         margin-bottom: -50px;
         margin-top: 3rem;
