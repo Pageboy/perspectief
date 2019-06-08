@@ -1,0 +1,22 @@
+---
+layout: post
+title: 2019-06-08-maidenvoyage
+date: 2019-06-08 10:33:12 +0059
+tags: [Journey]
+---
+
+---
+layout: post
+title: maidenvoyage_wc#86a1b
+date: 2019-06-08 10:20:47 +0059
+tags: [love hate news]
+published: false
+---
+
+This is a change to a file in inCopy
+
+
+![Image](/images/figure_2019-06-08T090213.jpg)
+
+
+
