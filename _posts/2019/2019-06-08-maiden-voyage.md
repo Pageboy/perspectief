@@ -20,17 +20,17 @@ We needed supplies so the Tesco shop in Reading was a convenient place to stop.
 
 [![Reading has a riverside Tescos]({{site.baseurl}}/images/2019/06/DSC_5008.jpg)]({{site.baseurl}}/images/2019/06/DSC_5008.jpg)
 
-## Overnight in Goring
+**Overnight in Goring**
 
 [![Goring bridge and waiting to Lock through.]({{site.baseurl}}/images/2019/06/IMG_1065.jpg)]({{site.baseurl}}/images/2019/06/IMG_1065.jpg)
 
-## Getting used to the speed and the steering.
+**Getting used to the speed and the steering.**
 
 [![4.3 knots at 19000 RPM. Depth 2.5 metres under the keel.]({{site.baseurl}}/images/2019/06/IMG_1062.jpg)]({{site.baseurl}}/images/2019/06/IMG_1062.jpg)
 
 [![Wallingford for lunch and Waitrose for more supplies]({{site.baseurl}}/images/2019/06/IMG_1061.jpg)]({{site.baseurl}}/images/2019/06/IMG_1061.jpg)
 
-## Overnight near to Dorchester-on-Thames
+**Overnight near to Dorchester-on-Thames**
 
 [![Hood up for the night.]({{site.baseurl}}/images/2019/06/DSC_5027.jpg)]({{site.baseurl}}/images/2019/06/DSC_5027.jpg)
 
@@ -40,6 +40,6 @@ Between Sandford and Iffley we moor up on the opposite bank to Rose Island.
 
 Rose Island was once the location for _The Swan_ pub. This close in 1929.
 
-## Our mooring at Osney Marina
+### Our mooring at Osney Marina
 
 [![Osney Marina]({{site.baseurl}}/images/2019/06/IMG_1069.jpg)]({{site.baseurl}}/images/2019/06/IMG_1069.jpg)
