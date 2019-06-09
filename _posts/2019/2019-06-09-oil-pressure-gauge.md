@@ -16,7 +16,7 @@ I thought maybe the oil pressure senders were of the wrong type so I ordered new
 
 [![2 Oil Pressure senders removed from the engine.]({{site.baseurl}}/images/2019/06/IMG_1244.jpg)]({{site.baseurl}}/images/2019/06/IMG_1244.jpg)
 
-The upper helm gauge must have been fitted later in the boat's history. The brand is _Faria_. I got in touch with the tech support at the Faria supplier `ASAP`. Tis guy was very knowledgable and tracked down the problem.
+The upper helm gauge must have been fitted later in the boat's history. The brand is _Faria_. I got in touch with the tech support at the Faria supplier `ASAP`. The person I spoke to was very knowledgable and tracked down the problem.
 
 [![New gauge installed with the old US type on the left.]({{site.baseurl}}/images/2019/06/IMG_1266.jpg)]({{site.baseurl}}/images/2019/06/IMG_1266.jpg)
 
