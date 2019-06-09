@@ -50,6 +50,7 @@ pre {
 
 .main-content {
     min-height: 300px;
+    border:1px solid red;
 }
 
 .site-content {
@@ -121,7 +122,7 @@ section.recent-posts {
 }
 
 .maxthumb {
-    max-height: 300px;
+    max-height: 190px;
     overflow: hidden;
 }
 
@@ -496,6 +497,11 @@ blockquote {
 @media (max-width:767px) {
     .post-top-meta.authorpage {
         text-align: center;
+    }
+
+    .maxthumb {
+        max-height: 300px;
+        overflow: hidden;
     }
 }
 
@@ -878,10 +884,7 @@ iframe {
 .card .img-fluid {
     width: 100%;
     border:none;
-}
-
-.img-fluid img {
-max-height:200px;
+    /* max-height:190px; */
 }
 
 .sticky-top-80 {
