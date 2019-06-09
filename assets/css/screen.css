@@ -880,6 +880,10 @@ iframe {
     border:none;
 }
 
+.img-fluid img {
+max-height:200px;
+}
+
 .sticky-top-80 {
     top: 80px;
 }
