@@ -14,4 +14,4 @@ The gearbox is a PRM hydraulic.
 
 Another view of the engine.
 
-[![Looking forward]({{baseurl}}/images/2019/06/IMG_0087.jpg)]({{baseurl}}/images/2019/06/IMG_0087.jpg)
+[![Looking forward]({{site.baseurl}}/images/2019/06/IMG_0087.jpg)]({{site.baseurl}}/images/2019/06/IMG_0087.jpg)

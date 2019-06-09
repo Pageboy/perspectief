@@ -50,7 +50,6 @@ pre {
 
 .main-content {
     min-height: 300px;
-    border:1px solid red;
 }
 
 .site-content {
@@ -502,6 +501,7 @@ blockquote {
     .maxthumb {
         max-height: 300px;
         overflow: hidden;
+
     }
 }
 
@@ -884,7 +884,7 @@ iframe {
 .card .img-fluid {
     width: 100%;
     border:none;
-    /* max-height:190px; */
+    object-fit: cover;
 }
 
 .sticky-top-80 {

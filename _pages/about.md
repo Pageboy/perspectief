@@ -13,6 +13,8 @@ The company Z-Yachts (Zijderveld Yachts) no longer exists but boats of this desi
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/drawing.jpg" alt="Perspectief Drawing" /></p>
 
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/images/2019/06/IMG_0963.jpg" alt="Boat number plate" /></p>
+
 </div>
 
 <div class="col-md-4">
