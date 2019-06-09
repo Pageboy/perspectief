@@ -4,7 +4,7 @@ title: Canopy Fixings
 subtitle: 
 permalink: 
 tags: []
-image: 
+image: /images/2019/06/quickreleasepins.jpg
 published: false
 ---
 
@@ -13,5 +13,7 @@ Hello
 
 here is an edit
 
-![](/images/2019/06/DSC_3351.jpg)
+![Quick Release Pins](/images/2019/06/quickreleasepins.jpg)
+
+
 
