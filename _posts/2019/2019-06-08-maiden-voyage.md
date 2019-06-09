@@ -3,18 +3,14 @@ layout: post
 title: Maiden Voyage
 date: '2019-06-08 13:59'
 published: true
-image: images/2019/06/IMG_0963.jpg
+image: images/2019/06/IMG_1059.jpg
 ---
 
-Late April and we take the train to Wargrave for a trip upstream to Oxford. The mooring at Osney awaits!
+Late April and we take the train to Wargrave for a trip upstream to Oxford. The mooring at Osney awaits! Our first lock was Shiplake. Here the crew is holding on while we wait for the lock to open.
 
 Perspectief was put back in the water at the marina and we found the boat ready for departure. We carried with us some supplies.
 
 [![Departure from Val Wyatt Marina]({{site.baseurl}}/images/2019/06/IMG_1058.jpg)]({{site.baseurl}}/images/2019/06/IMG_1058.jpg)
-
-Our first lock was Shiplake. Here the crew is holding on while we wait for the lock to open.
-
-[![Ready for Shiplake.]({{site.baseurl}}/images/2019/06/IMG_1059.jpg)]({{site.baseurl}}/images/2019/06/IMG_1059.jpg)
 
 We needed supplies so the Tesco shop in Reading was a convenient place to stop.
 
