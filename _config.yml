@@ -63,9 +63,9 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 prose:
   year: site.year
-  rooturl: '_posts/site.year/'
+  rooturl: '_posts/2019/'
   siteurl: 'https://pageboy.github.io/perspectief'
-  relativeLinks: 'https://pageboy.github.io/perspectief/links.jsonp'
+  # relativeLinks: 'https://pageboy.github.io/perspectief/links.jsonp'
   media: 'images'
   metadata:
     _posts:
