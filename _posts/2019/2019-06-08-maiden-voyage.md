@@ -28,6 +28,8 @@ We needed supplies so the Tesco shop in Reading was a convenient place to stop.
 
 **Overnight near to Dorchester-on-Thames**
 
+Favourite place for a night’s mooring. Time it for a walk to the top of Wittenham Clumps.
+
 [![Hood up for the night.]({{site.baseurl}}/images/2019/06/DSC_5027.jpg)]({{site.baseurl}}/images/2019/06/DSC_5027.jpg)
 
 Between Sandford and Iffley we moor up on the opposite bank to Rose Island.

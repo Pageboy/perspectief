@@ -65,7 +65,7 @@ prose:
   rooturl: '_posts/:year'
   siteurl: 'https://pageboy.github.io/perspectief'
   # relativeLinks: 'https://pageboy.github.io/perspectief/links.jsonp'
-  media: 'images'
+  media: 'images/:year/:month'
   metadata:
     _posts:
       - name: "published"
