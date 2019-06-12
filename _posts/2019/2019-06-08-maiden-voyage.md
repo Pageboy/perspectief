@@ -12,7 +12,7 @@ Perspectief was put back in the water at the marina and we found the boat ready 
 
 [![Departure from Val Wyatt Marina]({{site.baseurl}}/images/2019/06/IMG_1058.jpg)]({{site.baseurl}}/images/2019/06/IMG_1058.jpg)
 
-We needed supplies so the Tesco shop in Reading was a convenient place to stop.
+We needed further supplies so the Tesco shop in Reading was a convenient place to stop.
 
 [![Reading has a riverside Tescos]({{site.baseurl}}/images/2019/06/DSC_5008.jpg)]({{site.baseurl}}/images/2019/06/DSC_5008.jpg)
 
@@ -23,6 +23,8 @@ We needed supplies so the Tesco shop in Reading was a convenient place to stop.
 **Getting used to the speed and the steering.**
 
 [![4.3 knots at 19000 RPM. Depth 2.5 metres under the keel.]({{site.baseurl}}/images/2019/06/IMG_1062.jpg)]({{site.baseurl}}/images/2019/06/IMG_1062.jpg)
+
+**Stopping for lunch n Wallingford.**
 
 [![Wallingford for lunch and Waitrose for more supplies]({{site.baseurl}}/images/2019/06/IMG_1061.jpg)]({{site.baseurl}}/images/2019/06/IMG_1061.jpg)
 
