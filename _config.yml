@@ -62,10 +62,10 @@ lazyimages: "disabled"
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 prose:
-  rooturl: '_posts/:year/'
+  rooturl: '_posts'
   siteurl: 'https://pageboy.github.io/perspectief'
   # relativeLinks: 'https://pageboy.github.io/perspectief/links.jsonp'
-  media: 'images/:year/:month'
+  media: 'images'
   metadata:
     _posts:
       - name: "published"
@@ -134,3 +134,9 @@ prose:
           element: "checkbox"
           label: "Comments"
           value: false
+      - name: "image"
+        field:
+          element: "text"
+          value: "********.jpg"
+          label: "Featured Image"
+          help: "Replace ******** with the name of the image file you uploaded"
