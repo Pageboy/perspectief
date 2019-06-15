@@ -938,3 +938,12 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+
+span.caption {
+  text align:center;
+  font-size: .7em;
+  display:block;
+  color:gray;
+  padding-top:8px;
+}
