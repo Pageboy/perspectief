@@ -37,7 +37,7 @@ post_class: post-template
               <img class="featured-image img-fluid" alt="{{ page.title }}" src="{{ page.image }}" />
               {% else %}
               <a rel="gallery" href="{{ site.baseurl }}/{{ page.image }}">
-                <img class="featured-image" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}" />
+                <img src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}" />
                 {% if page.caption %}
                 <span class="caption">{{page.caption}}</span>
                 {% endif %}
