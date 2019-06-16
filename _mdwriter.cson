@@ -58,6 +58,7 @@ title: "{title}"
 date: "{date}"
 published: false
 image: ""
+caption: ""
 ---
 """
 
