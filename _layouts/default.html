@@ -123,8 +123,8 @@ ga('send', 'pageview');
 $(".article-post img").each(function() {
     var imageCaption = $(this).attr("alt");
     if (imageCaption != '') {
-        $("<span class='caption'><em>" + imageCaption +
-            "</em></span>").insertAfter(this);
+        $("<span class='caption'>" + imageCaption +
+            "</span>").insertAfter(this);
     }
 });
 </script>
