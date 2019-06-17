@@ -125,7 +125,6 @@ section.recent-posts {
     height: 190px;
     width:100%;
     overflow: hidden;
-    border:1px solid green;
 }
 
 .listfeaturedtag .card,
