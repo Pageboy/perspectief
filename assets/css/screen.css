@@ -122,8 +122,10 @@ section.recent-posts {
 }
 
 .maxthumb {
-    max-height: 190px;
+    height: 190px;
+    width:100%;
     overflow: hidden;
+    border:1px solid green;
 }
 
 .listfeaturedtag .card,
@@ -888,10 +890,13 @@ iframe {
     }
 }
 
-.card .img-fluid img {
+img.img-fluid {
     width: 100%;
     border:none;
-    object-fit: fill !important;
+    height:200px;
+    /* object-fit: fill !important; */
+    /* object-position: 50%; */
+    object-fit: cover !important;
 }
 
 .sticky-top-80 {
