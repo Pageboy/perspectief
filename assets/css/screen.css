@@ -308,22 +308,11 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-.mainheading h1.sitetitle {
-    font-family: 'Neuton', serif;
-    color:#05A;
-}
-
 h1.sitetitle {
     padding-top:4px;
     font-size: 3vw;
     font-family: 'Neuton', serif;
     color:#05A;
-}
-
-.mainheading h1.sitetitle i {
-    color:#00add2;
-    padding:0 10px;
-    font-style: normal;
 }
 
 .mainheading h1.posttitle {
@@ -408,13 +397,25 @@ blockquote {
     top: 100px;
 }
 
+
+/* when the window is wide */
+@media (min-width:1500px) {
+
+    h1.sitetitle {
+        font-size: 2.2em !important;
+    }
+
+}
+
+
+/* when the window is wide */
 @media (min-width:1024px) {
     .share ul li {
         display: block;
     }
 
     h1.sitetitle {
-        font-size: 3vw;
+        font-size: 2.8vw;
     }
 }
 
@@ -491,8 +492,10 @@ blockquote {
     .post-top-meta .col-md-10 {
         text-align: center;
     }
+
 }
 
+/* now the window is small like on a phone */
 @media (max-width:767px) {
     .post-top-meta.authorpage {
         text-align: center;
@@ -501,7 +504,10 @@ blockquote {
     .maxthumb {
         max-height: 300px;
         overflow: hidden;
+    }
 
+    h1.sitetitle {
+      font-size:2.8vh;
     }
 }
 
@@ -881,10 +887,10 @@ iframe {
     }
 }
 
-.card .img-fluid {
+.card .img-fluid img {
     width: 100%;
     border:none;
-    object-fit: cover;
+    object-fit: fill !important;
 }
 
 .sticky-top-80 {
