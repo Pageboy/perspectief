@@ -2,6 +2,7 @@
 Template Name: Mediumish
 Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/
+mods by Chris Jennings
 */
 html, body {
 font-family: "Cantarell",Geneva,Tahoma,"Trebuchet MS",sans-serif;
@@ -946,4 +947,5 @@ span.caption {
   display:block;
   color:gray;
   padding-top:8px;
+  padding-bottom:12px;
 }
