@@ -1,6 +1,7 @@
 ---
 layout: post
-published: false
+published: true
+date: 2019-06-30
 categories:
   - personal
 image: images/IMG_0051.jpeg
@@ -17,9 +18,3 @@ The temperature reached 31 degrees.
 [![The good crew of Perspectief]({{site.baseurl}}/images/2019/06/crew_danistellachrismick.jpeg)]({{site.baseurl}}/images/2019/06/crew_danistellachrismick.jpeg)
 
 [![Back through Sandford Lock]({{site.baseurl}}/images/2019/06/atsandfordlock.jpeg)]({{site.baseurl}}/images/2019/06/atsandfordlock.jpeg)
-
-
-
-
-
-
