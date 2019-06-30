@@ -9,7 +9,7 @@ featured: false
 comments: false
 title: Mediterranean Heat on the Thames
 ---
-Phew... sunburn amd swimming after a great trip down to Abingdon reach.
+Phew... sunburn and swimming after a great trip down to Abingdon reach.
 
 The temperature reached 31 degrees.
 
