@@ -4,6 +4,8 @@ published: true
 date: 2019-06-30
 categories:
   - personal
+  - day trip
+  - guests on board
 image: images/IMG_0051.jpeg
 caption: Dejeuner sur L'herbe
 featured: false
@@ -12,7 +14,7 @@ title: Mediterranean Heat on the Thames
 ---
 Phew... sunburn and swimming after a great trip down to Abingdon reach.
 
-As the temperature reached 31 degrees Salter's _Wargrave_ heading downsteam with musc blairing and a party in full swing. A rendition of _happy birthday_ echoed around the woods.
+As the temperature reached 31 degrees Salter's _Wargrave_ headed downstream with music blairing and a party in full swing. A rendition of _happy birthday_ echoed around the woods on the opposite bank.
 
 [![The good crew of Perspectief]({{site.baseurl}}/images/2019/06/crew_danistellachrismick.jpeg)]({{site.baseurl}}/images/2019/06/crew_danistellachrismick.jpeg)
 
