@@ -15,7 +15,7 @@ The company Z-Yachts (Zijderveld Yachts) no longer exists but boats of this desi
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/images/2019/06/IMG_0963.jpg" alt="Boat number plate" /></p>
 
-[![Here is Perspectief in Wallingford]({{site.baseurl}}/images/2019/07/DSC_5253.jpg)]({{site.baseurl}}/images/2019/07/DSC_5253.jpg)
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/images/2019/07/DSC_5253.jpg)" alt="Here is Perspectief in Wallingford" /></p>
 
 </div>
 
