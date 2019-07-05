@@ -11,11 +11,11 @@ comments: false
 <p>Perspectief is a Dutch cruiser created from steel and first launched in 1987. The boat was made by Z-Yachts in Holland and is 8.5 metres long.
 The company Z-Yachts (Zijderveld Yachts) no longer exists but boats of this design are known as Curtevenne. I bought the boat via Val Wyatt Marine in Wargrave, and–– according to the information passed to me––the boat has passed through 4 owners since first commissioned.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/drawing.jpg" alt="Perspectief Drawing" /></p>
+<p class="mb-5"><a href="{{site.baseurl}}/assets/images/drawing.jpg"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/drawing.jpg" alt="Perspectief Drawing" /></a></p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/images/2019/06/IMG_0963.jpg" alt="Boat number plate" /></p>
+<p class="mb-5"><a href="{{site.baseurl}}/images/2019/06/IMG_0963.jpg"><img class="shadow-lg" src="{{site.baseurl}}/images/2019/06/IMG_0963.jpg" alt="Boat number plate" /></a></p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/images/2019/07/DSC_5253.jpg" alt="Here is Perspectief in Wallingford" /></p>
+<p class="mb-5"><a href="{{site.baseurl}}/images/2019/07/DSC_5253.jpg"><img class="shadow-lg" src="{{site.baseurl}}/images/2019/07/DSC_5253.jpg" alt="Here is Perspectief in Wallingford" /></a></p>
 
 </div>
 

@@ -4,12 +4,14 @@ title: "Perspectief"
 description: "On the River Thames"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl:
+baseurl: 
 google_analytics: ''
 disqus: 'Perspectief'
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
+flickr_key: 6a751024fcc480f70610ed1f98220880
+flickr_id: 55648661@N00
 
 # Authors
 authors:
