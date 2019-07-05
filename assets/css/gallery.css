@@ -25,6 +25,10 @@
   width:100%;
 }
 
+#gallery a {
+  color:gray;
+}
+
 #gallery li img {
 text-align:center;
 margin-left: auto;
