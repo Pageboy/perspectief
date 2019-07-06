@@ -97,9 +97,9 @@ margin:0;
 #gallery li {
   list-style-type: none;
   padding: 8px;
-  margin-right:6px;
-  margin-bottom: 6px;
-  border:1px solid silver;
+  margin-right:8px;
+  margin-bottom: 10px;
+  border:1px solid #d2d1d1;
   vertical-align: top;
   /* flex-basis: 200px; */
   -webkit-box-flex: 1;
