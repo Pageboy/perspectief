@@ -763,7 +763,7 @@ h6 {
 img {
     max-width: 100%;
     /* we don't want really tall images thank you */
-    max-height:500px;
+    max-height:700px;
     border:1px solid #afafaf;
 }
 
