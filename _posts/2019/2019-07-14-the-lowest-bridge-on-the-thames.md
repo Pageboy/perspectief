@@ -3,13 +3,13 @@ layout: "post"
 title: "The Lowest bridge on the Thames"
 date: "2019-07-14 22:43"
 published: true
-image: "mages/2019/07/DSC_5346.jpg"
+image: "images/2019/07/DSC_5346.jpg"
 caption: "We just made it with inches to spare"
 categories:
   - day trip
 ---
 
-The Botley Road in Oxford crosses the Thames just beyond the railway station. The road is carried by an iron bridge constructed in 1888 after the previous bridge had collapsed killing 3 people. Apart from this tragedy, it is also a great shame that the bridge is so low (2.28 metres clearance) that it prevents many craft from navigating further upstream than Oxford.
+The Botley Road in Oxford crosses the Thames just beyond the railway station. The road is carried by an iron bridge constructed in 1888 after the previous stone bridge had collapsed killing 3 people. Apart from this tragedy, it is also a great shame that the bridge is so low (2.28 metres clearance) that it prevents many craft from navigating further upstream than Oxford.
 
 **Not so, Perspectief**, for on this day we managed to get under the bridge and went for a short trip to Kings Lock for lunch.
 
