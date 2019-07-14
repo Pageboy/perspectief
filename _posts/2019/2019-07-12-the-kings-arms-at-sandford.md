@@ -3,6 +3,9 @@ layout: "post"
 title: "The Kings Arms at Sandford"
 date: "2019-07-12 23:58"
 published: true
+categories:
+  - day trip
+  - guests on board
 image: "images/2019/07/IMG_0096.jpg"
 caption: "Tucked in under the trees at the King's Arms at Sandford"
 ---
