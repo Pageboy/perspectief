@@ -10,8 +10,11 @@
 <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/images//favicon-16x16.png">
 <link rel="manifest" href="{{ site.baseurl }}/assets/images//site.webmanifest">
 
+{%- if page.title != site.name -%}
 <title>{{ page.title }} | {{site.name}}</title>
-
+{%- else -%}
+<title>{{site.name}}</title>
+{%- endif -%}
 {% include metadata.html %}
 
 {% include stylesheets.html %}
