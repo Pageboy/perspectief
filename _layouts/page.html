@@ -10,6 +10,34 @@ layout: default
 
     <div class="article-post">
     {{content}}
+
+    {% if page.flickr_album %}
+    <div class="gallerycontainer content">
+            <p>Click each image here for an enlarged view.</p>
+    <div id="gallery"></div>
+    <script type="text/javascript" charset="utf-8">
+
+    $(function() {
+      // create a gallery with custom options
+      var options = {
+        apiKey: '{{site.flickr_key}}',
+        flickrId: '{{site.flickr_id}}',
+        photosetId: '{{page.flickr_album}}',
+        captions: true,
+        small: 'large',
+        large: 'original'
+      };
+
+      $('#gallery').fancyPhotoset(options);
+
+    });
+    </script>
+    <p><a href="https://www.flickr.com/photos/chrisjennings/albums/{{page.flickr_album}}">See this gallery on Flickr</a></p>
+    </div>
+
+    {% endif %}
+
+
     </div>
 
     {% if page.comments == true %}
