@@ -5,7 +5,7 @@ description: "Perspectief is a Dutch cruiser created from steel and first launch
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/perspectief'
-url: https://pageboy.github.io/perspectief
+url: https://www.chrisjennings.net/perspectief
 google_analytics: ''
 disqus: 'Perspectief'
 mailchimp-list: ''
@@ -69,7 +69,7 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://pageboy.github.io/perspectief'
+  siteurl: 'https://www.chrisjennings.net/perspectief'
   # relativeLinks: 'https://pageboy.github.io/perspectief/links.jsonp'
   media: 'images'
   metadata:
