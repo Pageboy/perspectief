@@ -1,14 +1,14 @@
 # Site
 name: "A Perspectief on Cruising"
 title: "A Perspectief on Cruising"
-description: "Perspectief is a Dutch cruiser created from steel and first launched in 1987. The boat is kept on the Thames and this site describes the trips we make."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: '/perspectief'
+description: "Perspectief is a Dutch cruiser created from steel and first launched in 1987. The boat is kept on the Thames near Oxford and this site describes the trips we make."
+logo: "assets/images/logo.png"
+favicon: "assets/images/logo.png"
+baseurl: "/perspectief"
 url: https://www.chrisjennings.net/perspectief
-google_analytics: ''
-disqus: 'Perspectief'
-mailchimp-list: ''
+google_analytics: ""
+disqus: "Perspectief"
+mailchimp-list: ""
 include: ["_pages"]
 permalink: /:title/
 flickr_key: 6a751024fcc480f70610ed1f98220880
@@ -41,7 +41,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
+    category: "/category/:name/"
 
 # Pagination
 paginate: 6
@@ -68,10 +68,10 @@ lazyimages: "disabled"
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 prose:
-  rooturl: '_posts'
-  siteurl: 'https://www.chrisjennings.net/perspectief'
+  rooturl: "_posts"
+  siteurl: "https://www.chrisjennings.net/perspectief"
   # relativeLinks: 'https://pageboy.github.io/perspectief/links.jsonp'
-  media: 'images'
+  media: "images"
   metadata:
     _posts:
       - name: "published"
